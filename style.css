@@ -1,0 +1,26 @@
+#addBtn {
+    margin-bottom: 25px;
+    margin-left: 5px;
+}
+
+#removeBtn {
+    margin-left: 10px;
+}
+
+.toggleBtn {
+    display: inline;
+    flex-direction: row;
+    align-self: start;
+    width: 40px;
+    height: 34px;
+}
+
+.readBtn {
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+
+#bookForm{
+    display: flex;
+    flex-direction: column;
+}
